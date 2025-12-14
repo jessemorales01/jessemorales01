@@ -18,7 +18,7 @@ One-line outcome + stack.
 - Private Repo: (https://github.com/SiriuzOnline/Jessera)
 - Highlights: APIs, database design, background jobs, admin tooling, game design
 
-- ### Yugioh Card-Interpreter
+### Yugioh Card-Interpreter
 One-line outcome + stack.
 - Repo: (https://github.com/jessemorales01/yugioh-card-interpreter)
 - Highlights: parsing, rules engine, tests, data modeling
